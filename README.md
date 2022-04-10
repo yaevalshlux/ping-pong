@@ -14,3 +14,5 @@ built on the Py.game library
 the left side is controlled by w and s
 right arrow up and down
 i fucked dogs
+
+1000-7 version
